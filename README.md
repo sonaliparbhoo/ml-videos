@@ -14,12 +14,18 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Workshop on Validating and Expanding Approximate Bayesian Computation Methods](http://www.birs.ca/events/2017/5-day-workshops/17w5025/videos)
++ [TensorFlow Dev Summit](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 + [Foundations of Machine Learning Boot Camp, Simons Institute](https://simons.berkeley.edu/workshops/schedule/3748)
++ [StanCon](https://www.youtube.com/watch?v=DJ0c7Bm5Djk)
 
 ## 2016
 
++ [Neural Information Processing Systems Workshop, Approximate Inference](https://www.youtube.com/playlist?list=PL8Yb49e5zFuztzY4wZRp_XIj6PREg3pw8)
++ [Neural Information Processing Systems Workshop, Adversarial Training](https://www.youtube.com/playlist?list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF)
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2016/Schedule)
 + [Bay Area Deep Learning School](https://www.bayareadlschool.org/)
++ [Knowledge Discovery and Data Mining](https://www.youtube.com/channel/UCPsUUDUlcTJuP-fRa7z85aQ/playlists)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2016_montreal/)
 + [Uncertainty in Computation, Simons Institute](https://simons.berkeley.edu/workshops/logic2016-1)
 + [Machine Learning Summer School, Peru](http://www.ucsp.edu.pe/ciet/mlss16/speakers.html)
@@ -32,6 +38,7 @@ In general the following are excellent resources:
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2015/Schedule)
 + [Gaussian Process Summer School, Sheffield](https://www.youtube.com/playlist?list=PLhoHEZlJjdQJLRUSE9_55eXkwNXKTiNQF)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2015_montreal/)
++ [International Conference on Machine Learning](http://videolectures.net/icml2015_lille/)
 + [Uncertainty in Artificial Intelligence](https://www.youtube.com/channel/UCXDf7Y4KMcqPWHriorcMDNg/videos)
 + [Arthur M. Sackler Colloquia: Drawing Causal Inference from Big Data](https://www.youtube.com/playlist?list=PLGJm1x3XQeK0NgFOX2Z7Wt-P5RU5Zv0Hv)
 + [International Conference on Learning Representations](https://www.youtube.com/playlist?list=PLhiWXaTdsWB8PnrVZquVyqlRFWXM4ijYz)
